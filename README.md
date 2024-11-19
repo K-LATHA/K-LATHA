@@ -6,6 +6,7 @@ Data Visualization: Power BI (dashboards, reports), Excel (advanced features)
 Automation: Power Automate (automating workflows, data processes)
 Data Management: SQL (queries, data extraction), SharePoint (data collaboration & management)
 API Integrations: Connecting and integrating various APIs for data retrieval and automation
+
 💡 What I Do:
 
 Create powerful dashboards and reports in Power BI to drive business decisions.
