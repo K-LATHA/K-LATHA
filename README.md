@@ -21,6 +21,10 @@ A Data Analyst with a focus on streamlining business processes and delivering ac
 - **Data Visualization:** Create powerful dashboards and reports in Power BI to drive business decisions.
 - **Automation:** Automate repetitive tasks and workflows with Power Automate to improve efficiency.
 - **Data Management:** Integrate data from various sources (APIs, SQL databases, SharePoint) to provide a unified view of business performance.
+- **API Integrations:** Integrate multiple APIs to automate data retrieval and enable cross-platform communication.
+- **Problem Solving & Optimization:** Analyze business challenges and recommend data-driven solutions for process improvements.
+- **Business Intelligence Strategy:** Collaborate with cross-functional teams to align data analytics strategies with business goals.
+- **Learning and Development:** Stay up-to-date with emerging tools and technologies in data analytics, automation, and visualization.
 
 I’m always eager to explore new challenges and collaborate on projects that leverage technology to solve real-world problems.
 
